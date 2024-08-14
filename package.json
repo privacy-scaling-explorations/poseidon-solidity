@@ -4,7 +4,7 @@
   "description": "Poseidon hash function implemented in Solidity",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vimwitch/poseidon-solidity.git"
+    "url": "https://github.com/privacy-scaling-explorations/poseidon-solidity.git"
   },
   "keywords": [
     "poseidon",
